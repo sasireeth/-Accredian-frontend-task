@@ -52,7 +52,7 @@ const App = () => {
     if (Object.keys(tempErrors).length === 0) {
       try {
         console.log('Form data:', formData);
-        const response = await fetch('https://accredian-backend-task-96vj.onrender.com/api/referrals', {
+        const response = await fetch('https://accredian-backend-task-ciz2.onrender.com/api/referrals', {
           method: 'POST',
           headers: {
             'Content-Type': 'application/json',
