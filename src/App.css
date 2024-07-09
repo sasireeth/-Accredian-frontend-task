@@ -1,0 +1,15 @@
+.main{
+  width: 814px;
+height: 725px;
+top: 269px;
+left: 788px;
+gap: 0px;
+opacity: 0px;
+}
+
+.fav{
+  background-image: url("utils/background.png");
+  background-size: cover;
+  height: 15rem;
+  overflow: hidden;
+}
